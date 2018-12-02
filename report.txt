@@ -1,0 +1,27 @@
+3 --> 1
+2 --> 0
+1 --> -1
+0 --> missing
+
+Biography -> 0
+Horror -> 1
+Crime -> 2
+Romance -> 3
+Action -> 4
+Animation -> 5
+Musical -> 6
+Adventure -> 7
+News -> 8
+Western -> 9
+Comedy -> 10
+War -> 11
+Thriller -> 12
+Sci-Fi -> 13
+Mystery -> 14
+History -> 15
+Drama -> 16
+Sport -> 17
+Fantasy -> 18
+Family -> 19
+
+Biography -> 0, Horror -> 1, Crime -> 2, Romance -> 3, Action -> 4, Animation -> 5, Musical -> 6, Adventure -> 7, News -> 8, Western -> 9, Comedy -> 10, War -> 11, Thriller -> 12, Sci-Fi -> 13, Mystery -> 14, History -> 15, Drama -> 16, Sport -> 17, Fantasy -> 18, Family -> 19
