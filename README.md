@@ -12,11 +12,15 @@ We tested the proposed algorithm on Indian Regional Movie Dataset (link: https:/
 
 We also ran 4 different algorithms on this dataset to compare the proposed algorithm with them.
 The algorithms ran are:
-  1) SVD Matrix Factorization (MF.py)
-  2.) Cold-start based classification using SVM (SVM_classifier.py) [1]
-  3.) Cold-start based classification using MLP (MLP.py) [1]
-  4.) Cold-start based classification using ELM (ELM.py) [1]
-  5.) Content-based clustering (on genre) and CF (sol.py and driver.py) [2]
+   1.) SVD Matrix Factorization (MF.py)
+  
+    2.) Cold-start based classification using SVM (SVM_classifier.py) [1]
+  
+    3.) Cold-start based classification using MLP (MLP.py) [1]
+  
+    4.) Cold-start based classification using ELM (ELM.py) [1]
+  
+    5.) Content-based clustering (on genre) and CF (sol.py and driver.py) [2]
 
 
 
