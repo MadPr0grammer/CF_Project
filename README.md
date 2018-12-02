@@ -29,10 +29,10 @@ The algorithms ran are:
 Details about the files:
 
 ==> Dependencies:
-        Numpy
-        Scipy
-        Scikit-learn
-        Pandas
+        Numpy,
+        Scipy,
+        Scikit-learn,
+        Pandas,
         Surprise (link: http://surpriselib.com/)
 
 ==> The files 'sol.py' and 'driver.py' implements the proposed algorithm. Both these files and the folder 'Data' should be in the same directory while running the programme.
@@ -57,6 +57,7 @@ Instructions for running:
  
  
  References:
+ 
  [1] A simple classification based approach for addressing user and item cold-start problem (link: https://drive.google.com/file/d/0B-G5D95ALDLlSkJUZ1FTaDNwejg/view)
  
  [2] Weighting strategies for a recommender system using item clustering based on genres (link: https://www.sciencedirect.com/science/article/pii/S0957417417300404?via%3Dihub)
