@@ -13,10 +13,17 @@ We tested the proposed algorithm on Indian Regional Movie Dataset (link: https:/
 We also ran 4 different algorithms on this dataset to compare the proposed algorithm with them.
 The algorithms ran are:
   1) SVD Matrix Factorization (MF.py)
+  
   2.) Cold-start based classification using SVM (SVM_classifier.py) [1]
+  
   3.) Cold-start based classification using MLP (MLP.py) [1]
+  
   4.) Cold-start based classification using ELM (ELM.py) [1]
+  
   5.) Content-based clustering (on genre) and CF (sol.py and driver.py) [2]
+
+
+
 
 Details about the files:
 
@@ -41,11 +48,14 @@ Instructions for running:
  Just run the script and it'll print the MAE and RMSE over 5-folds.
  
  
+ 
  Important Note:
   The ratings in the data file are -1, 0, 1. 
   I converted them to 1, 2, 3 respectively. So it's like ratings are on the scale of 1 to 3.
   
  
+ 
  References:
  [1] A simple classification based approach for addressing user and item cold-start problem (link: https://drive.google.com/file/d/0B-G5D95ALDLlSkJUZ1FTaDNwejg/view)
+ 
  [2] Weighting strategies for a recommender system using item clustering based on genres (link: https://www.sciencedirect.com/science/article/pii/S0957417417300404?via%3Dihub)
