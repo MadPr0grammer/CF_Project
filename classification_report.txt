@@ -1,0 +1,13 @@
+Features for user:
+    Language
+    Age
+    #Region, not taking region as not clear on how many states are there
+    Gender
+    Occupation
+
+Features of a movie:
+    Language
+    Genre
+
+Date used for age calculation:
+    01-Jan-2017
